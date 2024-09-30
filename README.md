@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/Smith-1m/Smith-1m/blob/main/smithcard.png)
+<!---![logo](https://github.com/Smith-1m/Smith-1m/blob/main/smithcard.png)--->
 <img align="left" src="https://github.com/Smith-1m/Smith-1m/blob/main/readme2.gif" width="21%" style="display:inline;"><img align="right" src="https://github.com/Smith-1m/Smith-1m/blob/main/readme2.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm @Enginland</h1>
