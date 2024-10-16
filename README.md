@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/somith-mao-5292472b1/)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm alone**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
