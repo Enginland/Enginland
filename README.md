@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,spring," />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,py,django" />
   </a>
 </p>
 
